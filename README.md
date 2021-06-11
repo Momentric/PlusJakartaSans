@@ -2,9 +2,10 @@
 
 ![/documentation/img/plusjakartasans.png](/documentation/img/plusjakartasans.png)
 
-## Upcoming Improvments
+## Planned Improvments
 
 - Add Monospaced numbers
+- Fix Variable Fonts
 
 ## CHANGELOG for Plus Jakarta Sans
 
