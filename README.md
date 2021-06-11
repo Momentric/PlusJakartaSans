@@ -2,21 +2,11 @@
 
 ![/documentation/img/plusjakartasans.png](/documentation/img/plusjakartasans.png)
 
-![/documentation/img/plusjakartasans-alt.gif](/documentation/img/plusjakartasans-alt.gif)
+## Upcoming Improvments
 
-## About Plus Jakarta Sans Project
+- Add Monospaced numbers
 
-Plus Jakarta Sans is a font family that takes geometric sans serif styles, designed by Gumpita Rahayu from Tokotype, the fonts were originally commissioned by 6616 Studio for Jakarta Provincial Government program's +Jakarta City of Collaboration identity in 2020.
-
-Taking part of inspiration such as Neuzit Grotesk, Futura, and 1930s grotesque sans serif with almost monoline contrast and pointy curves, the fonts consist modern and clean cut forms, the x-height dimension slight taller to provide clear spaces between caps and x-height, this also equipped with open counter and balanced spaces to preserve the legibility at a range of sizes.
-
-The beauty of diversity captured in typography. Like the city itself, the unique points of this fonts is that in some glyphs has its own diversity and characteristic of various explorations of forms that enrich the expressions and stories that coexist. The charms of Plus Jakarta Sans fonts appear when one looks closer, manifesting in a beauty that emerges once seen as a whole. Each alternate on the family contains several alternates characters, divided into three stylistic alternates which Lancip (Sharp), Lurus (Straight), and Lingkar (Swirl).
-
-As part of Plus Jakarta as a city of collaboration, fonts are made available for public and use it under the SIL Open Font License.
-
-To contribute to the project, Please see <a href="https://github.com/tokotype/PlusJakartaSans">github.com/tokotype/PlusJakartaSans</a> or visit http://www.tokotypefaces.com
-
-## FONTLOG for Plus Jakarta Sans fonts
+## CHANGELOG for Plus Jakarta Sans
 
 ### **4 December 2020 (Gumpita Rahayu) Plus Jakarta Sans v2.400**
 
@@ -48,11 +38,17 @@ After downloading the zip from above:
 ## Authors
 [Gumpita Rahayu - Tokotype](https://www.tokotype.com)
 
-## Contribution
-
-If you want to contribute to develop improvements of this font family, you can fork this project and create an issue or email us at mail@tokotype.com
-
 ## License
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
+
+## About Plus Jakarta Sans
+
+Plus Jakarta Sans is a font family that takes geometric sans serif styles, designed by Gumpita Rahayu from Tokotype, the fonts were originally commissioned by 6616 Studio for Jakarta Provincial Government program's +Jakarta City of Collaboration identity in 2020.
+
+Taking part of inspiration such as Neuzit Grotesk, Futura, and 1930s grotesque sans serif with almost monoline contrast and pointy curves, the fonts consist modern and clean cut forms, the x-height dimension slight taller to provide clear spaces between caps and x-height, this also equipped with open counter and balanced spaces to preserve the legibility at a range of sizes.
+
+The beauty of diversity captured in typography. Like the city itself, the unique points of this fonts is that in some glyphs has its own diversity and characteristic of various explorations of forms that enrich the expressions and stories that coexist. The charms of Plus Jakarta Sans fonts appear when one looks closer, manifesting in a beauty that emerges once seen as a whole. Each alternate on the family contains several alternates characters, divided into three stylistic alternates which Lancip (Sharp), Lurus (Straight), and Lingkar (Swirl).
+
+As part of Plus Jakarta as a city of collaboration, fonts are made available for public and use it under the SIL Open Font License.
